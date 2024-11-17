@@ -1,6 +1,3 @@
-need a README for my bot discord
-Sure thing! Here's a sample README for your Discord bot:
-
 Discord Bot - Server Management & Moderation
 
 Introduction
