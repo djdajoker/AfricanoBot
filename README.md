@@ -1,9 +1,9 @@
-Discord Bot - Server Management & Moderation
+Discord Bot - Server Management & Moderation.
 
-Introduction
+Introduction:
 Welcome to the Discord bot designed to make server management and moderation effortless. This bot comes packed with features to help you maintain order and enhance community engagement in your Discord server.
 
-Features
+Features:
 Kick & Ban: Easily kick or ban members from the server.
 
 Unban: Quickly unban members when needed.
